@@ -1,0 +1,34 @@
+GSSHAPROJECT
+WMS WMS 11.1.10 (64-bit)
+WATERSHED_MASK           "C:\Users\CS\Desktop\Local_Project_Folders\AdSci_Watershed\Scripts\From_Scratch_4_May2023\RUN\Iao_v2_Soils_inflf_100m.msk"
+PROJECT_PATH             "C:\Users\CS\Desktop\Local_Project_Folders\AdSci_Watershed\Scripts\From_Scratch_4_May2023\RUN\"
+#LandSoil                "C:\Users\CS\Desktop\Local_Project_Folders\AdSci_Watershed\Scripts\From_Scratch_4_May2023\RUN\Iao_v2_Soils_inflf_100m.lsf"
+#PROJECTION_FILE         "C:\Users\CS\Desktop\Local_Project_Folders\AdSci_Watershed\Scripts\From_Scratch_4_May2023\RUN\Iao_v2_Soils_inflf_100m_prj.pro"
+NON_ORTHO_CHANNELS
+FLINE                    "C:\Users\CS\Desktop\Local_Project_Folders\AdSci_Watershed\Scripts\From_Scratch_4_May2023\RUN\Iao_v2_Soils_inflf_100m.map"
+METRIC
+QOUT_CFS
+GRIDSIZE                 100.000000
+ROWS                     42
+COLS                     56
+TOT_TIME                 44
+TIMESTEP                 60
+OUTROW                   16
+OUTCOL                   56
+OUTSLOPE                 0.001000
+MAP_FREQ                 60
+HYD_FREQ                 60
+MAP_TYPE                 1
+ELEVATION                "C:\Users\CS\Desktop\Local_Project_Folders\AdSci_Watershed\Scripts\From_Scratch_4_May2023\RUN\Iao_v2_Soils_inflf_100m.ele"
+DEPTH                    "C:\Users\CS\Desktop\Local_Project_Folders\AdSci_Watershed\Scripts\From_Scratch_4_May2023\RUN\Iao_v2_Soils_inflf_100m.dep"
+FLOOD_GRID               "C:\Users\CS\Desktop\Local_Project_Folders\AdSci_Watershed\Scripts\From_Scratch_4_May2023\RUN\Iao_v2_Soils_inflf_100m.gfl"
+OVERTYPE                 ADE
+INF_REDIST
+#INDEXGRID_GUID          "C:\Users\CS\Desktop\Local_Project_Folders\AdSci_Watershed\Scripts\From_Scratch_4_May2023\RUN\2017_LandUse.idx" "0f03224f-11ac-46dc-90da-4cd60ba4874a" 0
+#INDEXGRID_GUID          "C:\Users\CS\Desktop\Local_Project_Folders\AdSci_Watershed\Scripts\From_Scratch_4_May2023\RUN\SoilTypmapp.idx" "c52059ae-f9d0-4858-8cbf-704a7a8902d6" 1
+#INDEXGRID_GUID          "C:\Users\CS\Desktop\Local_Project_Folders\AdSci_Watershed\Scripts\From_Scratch_4_May2023\RUN\InitialMoisture.idx" "89205123-1631-4c65-ba4b-7441aee53b82" 1
+MAPPING_TABLE            "C:\Users\CS\Desktop\Local_Project_Folders\AdSci_Watershed\Scripts\From_Scratch_4_May2023\RUN\Iao_v2_Soils_inflf_100m.cmt"
+SUMMARY                  "C:\Users\CS\Desktop\Local_Project_Folders\AdSci_Watershed\Scripts\From_Scratch_4_May2023\RUN\Iao_v2_Soils_inflf_100m.sum"
+OUTLET_HYDRO             "C:\Users\CS\Desktop\Local_Project_Folders\AdSci_Watershed\Scripts\From_Scratch_4_May2023\RUN\Iao_v2_Soils_inflf_100m.otl"
+PRECIP_FILE              "C:\Users\CS\Desktop\Local_Project_Folders\AdSci_Watershed\Scripts\From_Scratch_4_May2023\RUN\Iao_v2_Soils_inflf_100m.gag"
+RAIN_INV_DISTANCE

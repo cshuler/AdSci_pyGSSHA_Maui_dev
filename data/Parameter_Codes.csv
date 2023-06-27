@@ -1,0 +1,37 @@
+ID,Name,Param_Type,Map_Coverage,Param_Code,Param_code_dumb,Base_Val
+4,Diversified agriculture,Roughness ,LandUse,-104,"""-104.000000""",0.216
+5,Macadamia,Roughness ,LandUse,-105,"""-105.000000""",0.29
+6,Fallow/grassland,Roughness ,LandUse,-106,"""-106.000000""",0.338
+7,"Developed, open space",Roughness ,LandUse,-107,"""-107.000000""",0.338
+8,"Developed, low-intensity",Roughness ,LandUse,-108,"""-108.000000""",0.182
+9,"Developed, medium-intensity",Roughness ,LandUse,-109,"""-109.000000""",0.11
+10,"Developed, high-intensity",Roughness ,LandUse,-1010,"""-1010.000000""",0.042
+11,Water body,Roughness ,LandUse,-1011,"""-1011.000000""",0.011
+12,Wetland,Roughness ,LandUse,-1012,"""-1012.000000""",0.062
+13,Sparsely vegetated,Roughness ,LandUse,-1013,"""-1013.000000""",0.162
+14,Grassland,Roughness ,LandUse,-1014,"""-1014.000000""",0.338
+15,Shrubland,Roughness ,LandUse,-1015,"""-1015.000000""",0.27
+16,"Native forest, no fog",Roughness ,LandUse,-1016,"""-1016.000000""",0.401
+17,"Alien forest, no fog",Roughness ,LandUse,-1017,"""-1017.000000""",0.344
+18,"Tree plantation, no fog",Roughness ,LandUse,-1018,"""-1018.000000""",0.29
+19,"Reservoir, Iao",Roughness ,LandUse,-1019,"""-1019.000000""",0.011
+21,"Native forest, fog",Roughness ,LandUse,-1021,"""-1021.000000""",0.401
+22,"Alien forest, fog",Roughness ,LandUse,-1022,"""-1022.000000""",0.344
+24,Golf course,Roughness ,LandUse,-1024,"""-1024.000000""",0.247
+25,Taro,Roughness ,LandUse,-1025,"""-1025.000000""",0.011
+5,Bouldery silty clay loam,HYDR_COND,Soils,-251,"""-251.000000""",1
+21,Bedrock,HYDR_COND,Soils,-2211,"""-2211.000000""",1
+5,Bouldery silty clay loam,CAPIL_HEAD,Soils,-252,"""-252.000000""",50
+21,Bedrock,CAPIL_HEAD,Soils,-2212,"""-2212.000000""",50
+5,Bouldery silty clay loam,POROSITY,Soils,-253,"""-253.000000""",0.3
+21,Bedrock,POROSITY,Soils,-2213,"""-2213.000000""",0.3
+5,Bouldery silty clay loam,PORE_INDEX,Soils,-254,"""-254.000000""",0.2
+21,Bedrock,PORE_INDEX,Soils,-2214,"""-2214.000000""",0.2
+5,Bouldery silty clay loam,RESID_SAT,Soils,-255,"""-255.000000""",0.1
+21,Bedrock,RESID_SAT,Soils,-2215,"""-2215.000000""",0.1
+5,Bouldery silty clay loam,FIELD_CAPACITY,Soils,-256,"""-256.000000""",0.133
+21,Bedrock,FIELD_CAPACITY,Soils,-2216,"""-2216.000000""",0.134
+5,Bouldery silty clay loam,WILTING_PT,Soils,-257,"""-257.000000""",0.092
+21,Bedrock,WILTING_PT,Soils,-2217,"""-2217.000000""",0.018
+5,Bouldery silty clay loam,SOIL_MOISTURE,Soils,-351,"""-351.000000""",0.092
+21,Bedrock,SOIL_MOISTURE,Soils,-3211,"""-3211.000000""",0.018
